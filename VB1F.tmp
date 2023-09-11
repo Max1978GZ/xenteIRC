@@ -1,0 +1,103 @@
+frx":0002
+         Sorted          =   -1  'True
+         TabIndex        =   26
+         Top             =   240
+         Width           =   2295
+      End
+   End
+   Begin VB.Frame panelbusqueda 
+      Caption         =   "Busqueda por Nick"
+      Height          =   1215
+      Left            =   2760
+      TabIndex        =   22
+      Top             =   3720
+      Visible         =   0   'False
+      Width           =   3615
+      Begin VB.CommandButton btn_buscar 
+         Caption         =   "Buscar"
+         Height          =   375
+         Left            =   840
+         TabIndex        =   24
+         Top             =   720
+         Width           =   1935
+      End
+      Begin VB.TextBox textBox_buscar_nick 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   23
+         Top             =   240
+         Width           =   3375
+      End
+   End
+   Begin VB.CommandButton Command1 
+      Caption         =   "salir"
+      Height          =   375
+      Left            =   5760
+      TabIndex        =   21
+      Top             =   5280
+      Width           =   975
+   End
+   Begin VB.ComboBox año 
+      Height          =   315
+      ItemData        =   "Formgenteirc.frx":0004
+      Left            =   1680
+      List            =   "Formgenteirc.frx":0006
+      TabIndex        =   5
+      Text            =   "1978"
+      Top             =   2400
+      Width           =   735
+   End
+   Begin VB.CommandButton Borrar 
+      Caption         =   "Eliminar"
+      Height          =   375
+      Left            =   4680
+      TabIndex        =   20
+      Top             =   5280
+      Visible         =   0   'False
+      Width           =   855
+   End
+   Begin VB.CommandButton modificar 
+      Caption         =   "modificar"
+      Height          =   375
+      Left            =   3600
+      TabIndex        =   19
+      Top             =   5280
+      Visible         =   0   'False
+      Width           =    =   5055
+   End
+   Begin VB.TextBox ciudad 
+      Height          =   285
+      Left            =   1680
+      TabIndex        =   4
+      Top             =   2040
+      Width           =   5055
+   End
+   Begin VB.TextBox correo 
+      Height          =   285
+      Left            =   1680
+      TabIndex        =   3
+      Top             =   1680
+      Width           =   5055
+   End
+   Begin VB.TextBox nombre 
+      Height          =   285
+      Left            =   1680
+      TabIndex        =   2
+      Top             =   1320
+      Width           =   5055
+   End
+   Begin VB.TextBox nick 
+      Height          =   285
+      Left            =   1680
+      TabIndex        =   1
+      Top             =   960
+      Width           =   5055
+   End
+   Begin VB.PictureBox Picture1 
+      Height          =   615
+      Left            =   120
+      ScaleHeight     =   555
+      ScaleWidth      =   3675
+      TabIndex        =   0
+      Top             =   120
+      Width      

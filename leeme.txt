@@ -1,0 +1,23 @@
+En Galego :
+              [Xente IRC]
+É un programa de xestión de usuarios do IRC
+esta programado en Visual Basic 6.
+Emprega una base de datos de Access 97.
+O código fonte pode ser modifiado e distribuido ser cargo algún según a GPL,
+se tes alguna suxerencia, mellora para o programa, non dudes en mandarma 
+o meu correo maximodutty@terra.es
+
+En Español :
+    
+              [Xente IRC]
+Es un programa de gestión de usuarios del IRC
+esta programado en Visual Basic 6.
+Emplea una base de datos de Access 97.
+El código fuente pode ser modifiado y distribuido sin tener que pagar por el,
+según a GPL,
+si tienes alguna sujerencia, mejora para el programa, no dudes en mandarmela 
+a mi correo maximodutty@terra.es
+
+En Inglish:
+
+Last the morning :)
